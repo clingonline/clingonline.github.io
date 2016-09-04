@@ -1,12 +1,12 @@
 ## CLING - purposeful connections
 
 
-'''Problem''': We love to talk, we are social animals. 
+**Problem**: We love to talk, we are social animals. 
 The problem is that due to lack of trust and/or communication skills, fear, 
 variety and sensitivity of specific topics and other reasons we are unaware of possible 
 situations to have purposeful connection, even with the closest people surrounding us.
 
-'''Solution:'''
+**Solution**:
 
 Cling shows you interesting and trustful people nearby 
 you and will give you attractive topic to talk with that person. 
